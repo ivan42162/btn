@@ -1,0 +1,15 @@
+ .dws {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   outline: gold solid;
+   outline-offset: 3px;
+   resize: both;
+}
+
+.reddiv{
+  background-color: blue;
+   cursor: url(vetiver.png), pointer;
+   caret-color: rgb(255, 255, 255);
+}
